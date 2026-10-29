@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "blocks",
+      "package": "com.studionine.ninetheblocks",
+      "name": "NINE:theBlocks",
+      "icon": "https://khueh-dev.github.io/family-icons/blocks-cf40e759720e.png",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "id": "bounce",
+      "package": "com.studionine.ninethebounce",
+      "name": "NINE:theBounce",
+      "order": 3,
+      "enabled": false
+    },
+    {
+      "id": "direction",
+      "package": "com.studionine.ninethedirection",
+      "name": "NINE:theDirection",
+      "order": 2,
+      "enabled": false
+    },
+    {
+      "id": "move",
+      "package": "com.studionine.ninethemove",
+      "name": "NINE:theMOVE",
+      "order": 1,
+      "enabled": false
+    }
+  ]
+}
