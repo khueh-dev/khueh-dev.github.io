@@ -14,21 +14,24 @@
       "package": "com.studionine.ninethebounce",
       "name": "NINE:theBounce",
       "order": 3,
-      "enabled": false
+      "enabled": true,
+      "icon": "https://khueh-dev.github.io/family-icons/bounce-60deb00db70b.png"
     },
     {
       "id": "direction",
       "package": "com.studionine.ninethedirection",
       "name": "NINE:theDirection",
       "order": 2,
-      "enabled": false
+      "enabled": true,
+      "icon": "https://khueh-dev.github.io/family-icons/direction-4870cf55001f.png"
     },
     {
       "id": "move",
       "package": "com.studionine.ninethemove",
       "name": "NINE:theMOVE",
       "order": 1,
-      "enabled": false
+      "enabled": true,
+      "icon": "https://khueh-dev.github.io/family-icons/move-7ef65c4aba11.png"
     }
   ]
 }

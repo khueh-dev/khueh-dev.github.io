@@ -2,7 +2,7 @@
 
 Public catalog: **https://khueh-dev.github.io/family-games.json**
 
-Apps with remote-catalog support fetch this file and cache it locally. Changes to this JSON and its icon files do not need a new app build. Apps refresh the list on opening the Family Games menu when the last successful refresh is older than10 minutes. The menu's refresh button requests a fresh check. GitHub Pages deployment/CDN propagation can add a short delay.
+Apps with remote-catalog support fetch this file and cache it locally. Changes to this JSON and its icon files do not need a new app build. The Cube app revalidates the list automatically on opening the Family Games menu (with a five-second request throttle), and refresh stale lists after10 minutes while the menu stays open. The Cube menu has no manual refresh button. GitHub Pages deployment/CDN propagation can add a short delay.
 
 ## Add or update a game
 
