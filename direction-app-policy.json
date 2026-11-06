@@ -1,0 +1,11 @@
+{
+  "configKey": "android_version_policy",
+  "androidMinVersionCode": 0,
+  "androidRecommendedVersionCode": 0,
+  "androidMinVersionName": "",
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.studionine.ninethedirection",
+  "forceUpdateTitleKo": "업데이트 필요",
+  "forceUpdateMessageKo": "새 버전으로 업데이트한 뒤 다시 시도해 주세요.",
+  "forceUpdateTitleEn": "Update required",
+  "forceUpdateMessageEn": "Update to the latest version and retry."
+}
